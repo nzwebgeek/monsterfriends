@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nzwebgeek/monsterfriends.git/static/css/main.b5bb7862.chunk.css",
+    "main.js": "/nzwebgeek/monsterfriends.git/static/js/main.dea87d9f.chunk.js",
+    "main.js.map": "/nzwebgeek/monsterfriends.git/static/js/main.dea87d9f.chunk.js.map",
+    "runtime-main.js": "/nzwebgeek/monsterfriends.git/static/js/runtime-main.fbe403d2.js",
+    "runtime-main.js.map": "/nzwebgeek/monsterfriends.git/static/js/runtime-main.fbe403d2.js.map",
+    "static/css/2.31461e4f.chunk.css": "/nzwebgeek/monsterfriends.git/static/css/2.31461e4f.chunk.css",
+    "static/js/2.4ebfd6e6.chunk.js": "/nzwebgeek/monsterfriends.git/static/js/2.4ebfd6e6.chunk.js",
+    "static/js/2.4ebfd6e6.chunk.js.map": "/nzwebgeek/monsterfriends.git/static/js/2.4ebfd6e6.chunk.js.map",
+    "index.html": "/nzwebgeek/monsterfriends.git/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/nzwebgeek/monsterfriends.git/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.b5bb7862.chunk.css.map": "/nzwebgeek/monsterfriends.git/static/css/main.b5bb7862.chunk.css.map",
+    "static/js/2.4ebfd6e6.chunk.js.LICENSE.txt": "/nzwebgeek/monsterfriends.git/static/js/2.4ebfd6e6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/nzwebgeek/monsterfriends.git/static/media/SuperMario256.72751925.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbe403d2.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.4ebfd6e6.chunk.js",
+    "static/css/main.b5bb7862.chunk.css",
+    "static/js/main.dea87d9f.chunk.js"
+  ]
+}
