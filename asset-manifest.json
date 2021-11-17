@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nzwebgeek/monsterfriends.git/static/css/main.b5bb7862.chunk.css",
-    "main.js": "/nzwebgeek/monsterfriends.git/static/js/main.dea87d9f.chunk.js",
-    "main.js.map": "/nzwebgeek/monsterfriends.git/static/js/main.dea87d9f.chunk.js.map",
+    "main.js": "/nzwebgeek/monsterfriends.git/static/js/main.23cda7a5.chunk.js",
+    "main.js.map": "/nzwebgeek/monsterfriends.git/static/js/main.23cda7a5.chunk.js.map",
     "runtime-main.js": "/nzwebgeek/monsterfriends.git/static/js/runtime-main.fbe403d2.js",
     "runtime-main.js.map": "/nzwebgeek/monsterfriends.git/static/js/runtime-main.fbe403d2.js.map",
     "static/css/2.31461e4f.chunk.css": "/nzwebgeek/monsterfriends.git/static/css/2.31461e4f.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.4ebfd6e6.chunk.js",
     "static/css/main.b5bb7862.chunk.css",
-    "static/js/main.dea87d9f.chunk.js"
+    "static/js/main.23cda7a5.chunk.js"
   ]
 }
